@@ -13,7 +13,7 @@ body {
   }
   
   #logo-img {
-    background: url('/assets/images/restaurant-logo_large.png') no-repeat;
+    background: url('../images/restaurant-logo_large.png') no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
@@ -136,7 +136,7 @@ body {
     background-position: center;
   }
   #specials-tile {
-    background: url('../images/specials-tile') no-repeat;
+    background: url('../images/specials-tile.jpg') no-repeat;
     background-position: center;
   }
   #menu-tile span, #specials-tile span, #map-tile span {
@@ -261,7 +261,7 @@ body {
   @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
     .container .jumbotron {
-      background: url('/assets/images/star-k-logo.png') no-repeat;
+      background: url('../images/jumbotron_768.jpg') no-repeat;
       height: 432px;
     }
     /* End Home Page */
@@ -370,7 +370,6 @@ body {
       width: 100%;
     }
   }
-  
   
   
   
